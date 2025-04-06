@@ -1,38 +1,38 @@
 const categories = {
-    "Verb Meanings": {
-        100: ["What does 'hablar' mean?", "What is 'to talk' or 'to speak'?"],
-        200: ["What does 'bailar' mean?", "What is 'to dance'?"],
-        300: ["What does 'cantar' mean?", "What is 'to sing'?"],
-        400: ["What does 'estudiar' mean?", "What is 'to study'?"],
-        500: ["What does 'trabajar' mean?", "What is 'to work'?"]
+    "Mesopotamia": {
+        100: ["This is the name of the region between the Tigris and Euphrates Rivers.", "What is Mesopotamia?"],
+        200: ["Mesopotamians wrote using this wedge-shaped writing system.", "What is cuneiform?"],
+        300: ["The first known written set of laws was called this.", "What is Hammurabi’s Code?"],
+        400: ["This was the name of the Sumerian temple built to honor the gods.", "What is a ziggurat?"],
+        500: ["The Mesopotamians invented this to help with transportation and pottery.", "What is the wheel?"]
     },
-    "Conjugation Rules": {
-        100: ["What ending do you add to '-ar' verbs for 'yo'?", "What is '-o'?"],
-        200: ["What ending do you add for 'tú'?", "What is '-as'?"],
-        300: ["What ending do you add for 'él/ella/usted'?", "What is '-a'?"],
-        400: ["What ending do you add for 'nosotros/nosotras'?", "What is '-amos'?"],
-        500: ["What ending do you add for 'ellos/ellas/ustedes'?", "What is '-an'?"]
+    "Egypt": {
+        100: ["These rulers of Egypt were considered gods on Earth.", "What are pharaohs?"],
+        200: ["The Egyptians developed this writing system using picture symbols.", "What are hieroglyphics?"],
+        300: ["This river was essential for Egyptian civilization.", "What is the Nile River?"],
+        400: ["Egyptians preserved bodies through this process.", "What is mummification?"],
+        500: ["This stone helped scholars decode hieroglyphics.", "What is the Rosetta Stone?"]
     },
-    "Translate the Sentence": {
-        100: ["Translate: 'I talk a lot.'", "What is 'Yo hablo mucho'?"],
-        200: ["Translate: 'She dances well.'", "What is 'Ella baila bien'?"],
-        300: ["Translate: 'We study Spanish.'", "What is 'Nosotros estudiamos español'?"],
-        400: ["Translate: 'They work on Monday.'", "What is 'Ellos trabajan el lunes'?"],
-        500: ["Translate: 'Do you sing?' (informal)", "What is '¿Tú cantas?'"]
+    "Greece": {
+        100: ["This type of government means 'rule by the people.'", "What is democracy?"],
+        200: ["These city-states often fought each other but came together to fight Persia.", "What are Athens and Sparta?"],
+        300: ["The ancient Greeks believed in many gods, making them this.", "What is polytheistic?"],
+        400: ["This philosopher taught using questioning and dialogue.", "Who is Socrates?"],
+        500: ["The Greeks held these athletic competitions to honor Zeus.", "What are the Olympics?"]
     },
-    "Identify the Subject": {
-        100: ["Who is the subject: 'Hablan en clase.'", "Who are 'they' or 'you all'?"],
-        200: ["Who is the subject: 'Estudiamos mucho.'", "Who are 'we'?"],
-        300: ["Who is the subject: 'Baila bien.'", "Who is 'he', 'she', or 'you (formal)'?"],
-        400: ["Who is the subject: 'Cantas mal.'", "Who is 'you' (informal singular)?"],
-        500: ["Who is the subject: 'Trabajo en casa.'", "Who is 'I'?"]
+    "Rome": {
+        100: ["This type of government elects leaders to represent the people.", "What is a republic?"],
+        200: ["These Roman structures carried water to cities.", "What are aqueducts?"],
+        300: ["This famous Roman general was assassinated in 44 BCE.", "Who is Julius Caesar?"],
+        400: ["The Romans borrowed much of their culture from this civilization.", "What is Greece?"],
+        500: ["This large arena in Rome hosted gladiator fights.", "What is the Colosseum?"]
     },
-    "Random -AR Verbs": {
-        100: ["What does 'escuchar' mean?", "What is 'to listen'?"],
-        200: ["What does 'mirar' mean?", "What is 'to watch' or 'to look at'?"],
-        300: ["What does 'nadar' mean?", "What is 'to swim'?"],
-        400: ["What does 'practicar' mean?", "What is 'to practice'?"],
-        500: ["What does 'viajar' mean?", "What is 'to travel'?"]
+    "Vocabulary": {
+        100: ["A person trained to write in ancient times.", "What is a scribe?"],
+        200: ["A society with cities, government, religion, and social structure.", "What is a civilization?"],
+        300: ["People who move from place to place in search of food.", "What are nomads?"],
+        400: ["The spread of ideas and culture between societies.", "What is cultural diffusion?"],
+        500: ["A person who studies artifacts to learn about the past.", "What is an archaeologist?"]
     }
 };
 
